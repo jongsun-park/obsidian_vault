@@ -1,3 +1,10 @@
+<!--
+ TODOs
+ 1. Restructure heading
+ 2. Remove image links
+ 3. Check transcript for earlier chapters
+-->
+
 # 1. Introduction
 
 # 2. Installing and using Power BI Desktop and Service
