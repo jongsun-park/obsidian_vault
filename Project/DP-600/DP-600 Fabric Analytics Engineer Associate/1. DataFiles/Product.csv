@@ -1,0 +1,505 @@
+ProductID,Name,ProductNumber,MakeFlag,Color,SafetyStockLevel,StandardCost,ListPrice,ProductSubcategoryID,ProductModelID
+1,Adjustable Race,AR-5381,false,,1000,0.0000,0.0000,,
+2,Bearing Ball,BA-8327,false,,1000,0.0000,0.0000,,
+3,BB Ball Bearing,BE-2349,true,,800,0.0000,0.0000,,
+4,Headset Ball Bearings,BE-2908,false,,800,0.0000,0.0000,,
+316,Blade,BL-2036,true,,800,0.0000,0.0000,,
+317,LL Crankarm,CA-5965,false,Black,500,0.0000,0.0000,,
+318,ML Crankarm,CA-6738,false,Black,500,0.0000,0.0000,,
+319,HL Crankarm,CA-7457,false,Black,500,0.0000,0.0000,,
+320,Chainring Bolts,CB-2903,false,Silver,1000,0.0000,0.0000,,
+321,Chainring Nut,CN-6137,false,Silver,1000,0.0000,0.0000,,
+322,Chainring,CR-7833,false,Black,1000,0.0000,0.0000,,
+323,Crown Race,CR-9981,false,,1000,0.0000,0.0000,,
+324,Chain Stays,CS-2812,true,,1000,0.0000,0.0000,,
+325,Decal 1,DC-8732,false,,1000,0.0000,0.0000,,
+326,Decal 2,DC-9824,false,,1000,0.0000,0.0000,,
+327,Down Tube,DT-2377,true,,800,0.0000,0.0000,,
+328,Mountain End Caps,EC-M092,true,,1000,0.0000,0.0000,,
+329,Road End Caps,EC-R098,true,,1000,0.0000,0.0000,,
+330,Touring End Caps,EC-T209,true,,1000,0.0000,0.0000,,
+331,Fork End,FE-3760,true,,800,0.0000,0.0000,,
+332,Freewheel,FH-2981,false,Silver,500,0.0000,0.0000,,
+341,Flat Washer 1,FW-1000,false,,1000,0.0000,0.0000,,
+342,Flat Washer 6,FW-1200,false,,1000,0.0000,0.0000,,
+343,Flat Washer 2,FW-1400,false,,1000,0.0000,0.0000,,
+344,Flat Washer 9,FW-3400,false,,1000,0.0000,0.0000,,
+345,Flat Washer 4,FW-3800,false,,1000,0.0000,0.0000,,
+346,Flat Washer 3,FW-5160,false,,1000,0.0000,0.0000,,
+347,Flat Washer 8,FW-5800,false,,1000,0.0000,0.0000,,
+348,Flat Washer 5,FW-7160,false,,1000,0.0000,0.0000,,
+349,Flat Washer 7,FW-9160,false,,1000,0.0000,0.0000,,
+350,Fork Crown,FC-3654,true,,800,0.0000,0.0000,,
+351,Front Derailleur Cage,FC-3982,false,Silver,800,0.0000,0.0000,,
+352,Front Derailleur Linkage,FL-2301,false,Silver,800,0.0000,0.0000,,
+355,Guide Pulley,GP-0982,false,,800,0.0000,0.0000,,
+356,LL Grip Tape,GT-0820,false,,800,0.0000,0.0000,,
+357,ML Grip Tape,GT-1209,false,,800,0.0000,0.0000,,
+358,HL Grip Tape,GT-2908,false,,800,0.0000,0.0000,,
+359,Thin-Jam Hex Nut 9,HJ-1213,false,,1000,0.0000,0.0000,,
+360,Thin-Jam Hex Nut 10,HJ-1220,false,,1000,0.0000,0.0000,,
+361,Thin-Jam Hex Nut 1,HJ-1420,false,,1000,0.0000,0.0000,,
+362,Thin-Jam Hex Nut 2,HJ-1428,false,,1000,0.0000,0.0000,,
+363,Thin-Jam Hex Nut 15,HJ-3410,false,,1000,0.0000,0.0000,,
+364,Thin-Jam Hex Nut 16,HJ-3416,false,,1000,0.0000,0.0000,,
+365,Thin-Jam Hex Nut 5,HJ-3816,false,,1000,0.0000,0.0000,,
+366,Thin-Jam Hex Nut 6,HJ-3824,false,,1000,0.0000,0.0000,,
+367,Thin-Jam Hex Nut 3,HJ-5161,false,,1000,0.0000,0.0000,,
+368,Thin-Jam Hex Nut 4,HJ-5162,false,,1000,0.0000,0.0000,,
+369,Thin-Jam Hex Nut 13,HJ-5811,false,,1000,0.0000,0.0000,,
+370,Thin-Jam Hex Nut 14,HJ-5818,false,,1000,0.0000,0.0000,,
+371,Thin-Jam Hex Nut 7,HJ-7161,false,,1000,0.0000,0.0000,,
+372,Thin-Jam Hex Nut 8,HJ-7162,false,,1000,0.0000,0.0000,,
+373,Thin-Jam Hex Nut 12,HJ-9080,false,,1000,0.0000,0.0000,,
+374,Thin-Jam Hex Nut 11,HJ-9161,false,,1000,0.0000,0.0000,,
+375,Hex Nut 5,HN-1024,false,,1000,0.0000,0.0000,,
+376,Hex Nut 6,HN-1032,false,,1000,0.0000,0.0000,,
+377,Hex Nut 16,HN-1213,false,,1000,0.0000,0.0000,,
+378,Hex Nut 17,HN-1220,false,,1000,0.0000,0.0000,,
+379,Hex Nut 7,HN-1224,false,,1000,0.0000,0.0000,,
+380,Hex Nut 8,HN-1420,false,,1000,0.0000,0.0000,,
+381,Hex Nut 9,HN-1428,false,,1000,0.0000,0.0000,,
+382,Hex Nut 22,HN-3410,false,,1000,0.0000,0.0000,,
+383,Hex Nut 23,HN-3416,false,,1000,0.0000,0.0000,,
+384,Hex Nut 12,HN-3816,false,,1000,0.0000,0.0000,,
+385,Hex Nut 13,HN-3824,false,,1000,0.0000,0.0000,,
+386,Hex Nut 1,HN-4402,false,,1000,0.0000,0.0000,,
+387,Hex Nut 10,HN-5161,false,,1000,0.0000,0.0000,,
+388,Hex Nut 11,HN-5162,false,,1000,0.0000,0.0000,,
+389,Hex Nut 2,HN-5400,false,,1000,0.0000,0.0000,,
+390,Hex Nut 20,HN-5811,false,,1000,0.0000,0.0000,,
+391,Hex Nut 21,HN-5818,false,,1000,0.0000,0.0000,,
+392,Hex Nut 3,HN-6320,false,,1000,0.0000,0.0000,,
+393,Hex Nut 14,HN-7161,false,,1000,0.0000,0.0000,,
+394,Hex Nut 15,HN-7162,false,,1000,0.0000,0.0000,,
+395,Hex Nut 4,HN-8320,false,,1000,0.0000,0.0000,,
+396,Hex Nut 18,HN-9161,false,,1000,0.0000,0.0000,,
+397,Hex Nut 19,HN-9168,false,,1000,0.0000,0.0000,,
+398,Handlebar Tube,HT-2981,true,,800,0.0000,0.0000,,
+399,Head Tube,HT-8019,true,,800,0.0000,0.0000,,
+400,LL Hub,HU-6280,true,,500,0.0000,0.0000,,
+401,HL Hub,HU-8998,true,,500,0.0000,0.0000,,
+402,Keyed Washer,KW-4091,false,,1000,0.0000,0.0000,,
+403,External Lock Washer 3,LE-1000,false,,1000,0.0000,0.0000,,
+404,External Lock Washer 4,LE-1200,false,,1000,0.0000,0.0000,,
+405,External Lock Washer 9,LE-1201,false,,1000,0.0000,0.0000,,
+406,External Lock Washer 5,LE-1400,false,,1000,0.0000,0.0000,,
+407,External Lock Washer 7,LE-3800,false,,1000,0.0000,0.0000,,
+408,External Lock Washer 6,LE-5160,false,,1000,0.0000,0.0000,,
+409,External Lock Washer 1,LE-6000,false,,1000,0.0000,0.0000,,
+410,External Lock Washer 8,LE-7160,false,,1000,0.0000,0.0000,,
+411,External Lock Washer 2,LE-8000,false,,1000,0.0000,0.0000,,
+412,Internal Lock Washer 3,LI-1000,false,,1000,0.0000,0.0000,,
+413,Internal Lock Washer 4,LI-1200,false,,1000,0.0000,0.0000,,
+414,Internal Lock Washer 9,LI-1201,false,,1000,0.0000,0.0000,,
+415,Internal Lock Washer 5,LI-1400,false,,1000,0.0000,0.0000,,
+416,Internal Lock Washer 7,LI-3800,false,,1000,0.0000,0.0000,,
+417,Internal Lock Washer 6,LI-5160,false,,1000,0.0000,0.0000,,
+418,Internal Lock Washer 10,LI-5800,false,,1000,0.0000,0.0000,,
+419,Internal Lock Washer 1,LI-6000,false,,1000,0.0000,0.0000,,
+420,Internal Lock Washer 8,LI-7160,false,,1000,0.0000,0.0000,,
+421,Internal Lock Washer 2,LI-8000,false,,1000,0.0000,0.0000,,
+422,Thin-Jam Lock Nut 9,LJ-1213,false,,1000,0.0000,0.0000,,
+423,Thin-Jam Lock Nut 10,LJ-1220,false,,1000,0.0000,0.0000,,
+424,Thin-Jam Lock Nut 1,LJ-1420,false,,1000,0.0000,0.0000,,
+425,Thin-Jam Lock Nut 2,LJ-1428,false,,1000,0.0000,0.0000,,
+426,Thin-Jam Lock Nut 15,LJ-3410,false,,1000,0.0000,0.0000,,
+427,Thin-Jam Lock Nut 16,LJ-3416,false,,1000,0.0000,0.0000,,
+428,Thin-Jam Lock Nut 5,LJ-3816,false,,1000,0.0000,0.0000,,
+429,Thin-Jam Lock Nut 6,LJ-3824,false,,1000,0.0000,0.0000,,
+430,Thin-Jam Lock Nut 3,LJ-5161,false,,1000,0.0000,0.0000,,
+431,Thin-Jam Lock Nut 4,LJ-5162,false,,1000,0.0000,0.0000,,
+432,Thin-Jam Lock Nut 13,LJ-5811,false,,1000,0.0000,0.0000,,
+433,Thin-Jam Lock Nut 14,LJ-5818,false,,1000,0.0000,0.0000,,
+434,Thin-Jam Lock Nut 7,LJ-7161,false,,1000,0.0000,0.0000,,
+435,Thin-Jam Lock Nut 8,LJ-7162,false,,1000,0.0000,0.0000,,
+436,Thin-Jam Lock Nut 12,LJ-9080,false,,1000,0.0000,0.0000,,
+437,Thin-Jam Lock Nut 11,LJ-9161,false,,1000,0.0000,0.0000,,
+438,Lock Nut 5,LN-1024,false,,1000,0.0000,0.0000,,
+439,Lock Nut 6,LN-1032,false,,1000,0.0000,0.0000,,
+440,Lock Nut 16,LN-1213,false,,1000,0.0000,0.0000,,
+441,Lock Nut 17,LN-1220,false,,1000,0.0000,0.0000,,
+442,Lock Nut 7,LN-1224,false,,1000,0.0000,0.0000,,
+443,Lock Nut 8,LN-1420,false,,1000,0.0000,0.0000,,
+444,Lock Nut 9,LN-1428,false,,1000,0.0000,0.0000,,
+445,Lock Nut 22,LN-3410,false,,1000,0.0000,0.0000,,
+446,Lock Nut 23,LN-3416,false,,1000,0.0000,0.0000,,
+447,Lock Nut 12,LN-3816,false,,1000,0.0000,0.0000,,
+448,Lock Nut 13,LN-3824,false,,1000,0.0000,0.0000,,
+449,Lock Nut 1,LN-4400,false,,1000,0.0000,0.0000,,
+450,Lock Nut 10,LN-5161,false,,1000,0.0000,0.0000,,
+451,Lock Nut 11,LN-5162,false,,1000,0.0000,0.0000,,
+452,Lock Nut 2,LN-5400,false,,1000,0.0000,0.0000,,
+453,Lock Nut 20,LN-5811,false,,1000,0.0000,0.0000,,
+454,Lock Nut 21,LN-5818,false,,1000,0.0000,0.0000,,
+455,Lock Nut 3,LN-6320,false,,1000,0.0000,0.0000,,
+456,Lock Nut 14,LN-7161,false,,1000,0.0000,0.0000,,
+457,Lock Nut 15,LN-7162,false,,1000,0.0000,0.0000,,
+458,Lock Nut 4,LN-8320,false,,1000,0.0000,0.0000,,
+459,Lock Nut 19,LN-9080,false,,1000,0.0000,0.0000,,
+460,Lock Nut 18,LN-9161,false,,1000,0.0000,0.0000,,
+461,Lock Ring,LR-2398,false,Silver,1000,0.0000,0.0000,,
+462,Lower Head Race,LR-8520,false,,1000,0.0000,0.0000,,
+463,Lock Washer 4,LW-1000,false,,1000,0.0000,0.0000,,
+464,Lock Washer 5,LW-1200,false,,1000,0.0000,0.0000,,
+465,Lock Washer 10,LW-1201,false,,1000,0.0000,0.0000,,
+466,Lock Washer 6,LW-1400,false,,1000,0.0000,0.0000,,
+467,Lock Washer 13,LW-3400,false,,1000,0.0000,0.0000,,
+468,Lock Washer 8,LW-3800,false,,1000,0.0000,0.0000,,
+469,Lock Washer 1,LW-4000,false,,1000,0.0000,0.0000,,
+470,Lock Washer 7,LW-5160,false,,1000,0.0000,0.0000,,
+471,Lock Washer 12,LW-5800,false,,1000,0.0000,0.0000,,
+472,Lock Washer 2,LW-6000,false,,1000,0.0000,0.0000,,
+473,Lock Washer 9,LW-7160,false,,1000,0.0000,0.0000,,
+474,Lock Washer 3,LW-8000,false,,1000,0.0000,0.0000,,
+475,Lock Washer 11,LW-9160,false,,1000,0.0000,0.0000,,
+476,Metal Angle,MA-7075,false,,1000,0.0000,0.0000,,
+477,Metal Bar 1,MB-2024,false,,1000,0.0000,0.0000,,
+478,Metal Bar 2,MB-6061,false,,1000,0.0000,0.0000,,
+479,Metal Plate 2,MP-2066,false,,1000,0.0000,0.0000,,
+480,Metal Plate 1,MP-2503,false,,1000,0.0000,0.0000,,
+481,Metal Plate 3,MP-4960,false,,1000,0.0000,0.0000,,
+482,Metal Sheet 2,MS-0253,false,,1000,0.0000,0.0000,,
+483,Metal Sheet 3,MS-1256,false,,1000,0.0000,0.0000,,
+484,Metal Sheet 7,MS-1981,false,,1000,0.0000,0.0000,,
+485,Metal Sheet 4,MS-2259,false,,1000,0.0000,0.0000,,
+486,Metal Sheet 5,MS-2341,false,,1000,0.0000,0.0000,,
+487,Metal Sheet 6,MS-2348,false,,1000,0.0000,0.0000,,
+488,Metal Sheet 1,MS-6061,false,,1000,0.0000,0.0000,,
+489,Metal Tread Plate,MT-1000,false,,1000,0.0000,0.0000,,
+490,LL Nipple,NI-4127,false,,1000,0.0000,0.0000,,
+491,HL Nipple,NI-9522,false,,1000,0.0000,0.0000,,
+492,Paint - Black,PA-187B,false,,60,0.0000,0.0000,,
+493,Paint - Red,PA-361R,false,,60,0.0000,0.0000,,
+494,Paint - Silver,PA-529S,false,,60,0.0000,0.0000,,
+495,Paint - Blue,PA-632U,false,,60,0.0000,0.0000,,
+496,Paint - Yellow,PA-823Y,false,,60,0.0000,0.0000,,
+497,Pinch Bolt,PB-6109,false,,1000,0.0000,0.0000,,
+504,Cup-Shaped Race,RA-2345,false,,1000,0.0000,0.0000,,
+505,Cone-Shaped Race,RA-7490,false,,1000,0.0000,0.0000,,
+506,Reflector,RF-9198,false,,1000,0.0000,0.0000,,
+507,LL Mountain Rim,RM-M464,false,,800,0.0000,0.0000,,
+508,ML Mountain Rim,RM-M692,false,,800,0.0000,0.0000,,
+509,HL Mountain Rim,RM-M823,false,,800,0.0000,0.0000,,
+510,LL Road Rim,RM-R436,false,,800,0.0000,0.0000,,
+511,ML Road Rim,RM-R600,false,,800,0.0000,0.0000,,
+512,HL Road Rim,RM-R800,false,,800,0.0000,0.0000,,
+513,Touring Rim,RM-T801,false,,800,0.0000,0.0000,,
+514,LL Mountain Seat Assembly,SA-M198,true,,500,98.7700,133.3400,,
+515,ML Mountain Seat Assembly,SA-M237,true,,500,108.9900,147.1400,,
+516,HL Mountain Seat Assembly,SA-M687,true,,500,145.8700,196.9200,,
+517,LL Road Seat Assembly,SA-R127,true,,500,98.7700,133.3400,,
+518,ML Road Seat Assembly,SA-R430,true,,500,108.9900,147.1400,,
+519,HL Road Seat Assembly,SA-R522,true,,500,145.8700,196.9200,,
+520,LL Touring Seat Assembly,SA-T467,true,,500,98.7700,133.3400,,
+521,ML Touring Seat Assembly,SA-T612,true,,500,108.9900,147.1400,,
+522,HL Touring Seat Assembly,SA-T872,true,,500,145.8700,196.9200,,
+523,LL Spindle/Axle,SD-2342,false,,500,0.0000,0.0000,,
+524,HL Spindle/Axle,SD-9872,false,,500,0.0000,0.0000,,
+525,LL Shell,SH-4562,false,,800,0.0000,0.0000,,
+526,HL Shell,SH-9312,false,,800,0.0000,0.0000,,
+527,Spokes,SK-9283,false,,1000,0.0000,0.0000,,
+528,Seat Lug,SL-0931,false,,1000,0.0000,0.0000,,
+529,Stem,SM-9087,true,,500,0.0000,0.0000,,
+530,Seat Post,SP-2981,false,,500,0.0000,0.0000,,
+531,Steerer,SR-2098,true,,500,0.0000,0.0000,,
+532,Seat Stays,SS-2985,true,,800,0.0000,0.0000,,
+533,Seat Tube,ST-9828,true,,500,0.0000,0.0000,,
+534,Top Tube,TO-2301,true,,500,0.0000,0.0000,,
+535,Tension Pulley,TP-0923,false,,800,0.0000,0.0000,,
+679,Rear Derailleur Cage,RC-0291,false,Silver,500,0.0000,0.0000,,
+680,"HL Road Frame - Black, 58",FR-R92B-58,true,Black,500,1059.3100,1431.5000,14,6
+706,"HL Road Frame - Red, 58",FR-R92R-58,true,Red,500,1059.3100,1431.5000,14,6
+707,"Sport-100 Helmet, Red",HL-U509-R,false,Red,4,13.0863,34.9900,31,33
+708,"Sport-100 Helmet, Black",HL-U509,false,Black,4,13.0863,34.9900,31,33
+709,"Mountain Bike Socks, M",SO-B909-M,false,White,4,3.3963,9.5000,23,18
+710,"Mountain Bike Socks, L",SO-B909-L,false,White,4,3.3963,9.5000,23,18
+711,"Sport-100 Helmet, Blue",HL-U509-B,false,Blue,4,13.0863,34.9900,31,33
+712,AWC Logo Cap,CA-1098,false,Multi,4,6.9223,8.9900,19,2
+713,"Long-Sleeve Logo Jersey, S",LJ-0192-S,false,Multi,4,38.4923,49.9900,21,11
+714,"Long-Sleeve Logo Jersey, M",LJ-0192-M,false,Multi,4,38.4923,49.9900,21,11
+715,"Long-Sleeve Logo Jersey, L",LJ-0192-L,false,Multi,4,38.4923,49.9900,21,11
+716,"Long-Sleeve Logo Jersey, XL",LJ-0192-X,false,Multi,4,38.4923,49.9900,21,11
+717,"HL Road Frame - Red, 62",FR-R92R-62,true,Red,500,868.6342,1431.5000,14,6
+718,"HL Road Frame - Red, 44",FR-R92R-44,true,Red,500,868.6342,1431.5000,14,6
+719,"HL Road Frame - Red, 48",FR-R92R-48,true,Red,500,868.6342,1431.5000,14,6
+720,"HL Road Frame - Red, 52",FR-R92R-52,true,Red,500,868.6342,1431.5000,14,6
+721,"HL Road Frame - Red, 56",FR-R92R-56,true,Red,500,868.6342,1431.5000,14,6
+722,"LL Road Frame - Black, 58",FR-R38B-58,true,Black,500,204.6251,337.2200,14,9
+723,"LL Road Frame - Black, 60",FR-R38B-60,true,Black,500,204.6251,337.2200,14,9
+724,"LL Road Frame - Black, 62",FR-R38B-62,true,Black,500,204.6251,337.2200,14,9
+725,"LL Road Frame - Red, 44",FR-R38R-44,true,Red,500,187.1571,337.2200,14,9
+726,"LL Road Frame - Red, 48",FR-R38R-48,true,Red,500,187.1571,337.2200,14,9
+727,"LL Road Frame - Red, 52",FR-R38R-52,true,Red,500,187.1571,337.2200,14,9
+728,"LL Road Frame - Red, 58",FR-R38R-58,true,Red,500,187.1571,337.2200,14,9
+729,"LL Road Frame - Red, 60",FR-R38R-60,true,Red,500,187.1571,337.2200,14,9
+730,"LL Road Frame - Red, 62",FR-R38R-62,true,Red,500,187.1571,337.2200,14,9
+731,"ML Road Frame - Red, 44",FR-R72R-44,true,Red,500,352.1394,594.8300,14,16
+732,"ML Road Frame - Red, 48",FR-R72R-48,true,Red,500,352.1394,594.8300,14,16
+733,"ML Road Frame - Red, 52",FR-R72R-52,true,Red,500,352.1394,594.8300,14,16
+734,"ML Road Frame - Red, 58",FR-R72R-58,true,Red,500,352.1394,594.8300,14,16
+735,"ML Road Frame - Red, 60",FR-R72R-60,true,Red,500,352.1394,594.8300,14,16
+736,"LL Road Frame - Black, 44",FR-R38B-44,true,Black,500,204.6251,337.2200,14,9
+737,"LL Road Frame - Black, 48",FR-R38B-48,true,Black,500,204.6251,337.2200,14,9
+738,"LL Road Frame - Black, 52",FR-R38B-52,true,Black,500,204.6251,337.2200,14,9
+739,"HL Mountain Frame - Silver, 42",FR-M94S-42,true,Silver,500,747.2002,1364.5000,12,5
+740,"HL Mountain Frame - Silver, 44",FR-M94S-44,true,Silver,500,706.8110,1364.5000,12,5
+741,"HL Mountain Frame - Silver, 48",FR-M94S-52,true,Silver,500,706.8110,1364.5000,12,5
+742,"HL Mountain Frame - Silver, 46",FR-M94S-46,true,Silver,500,747.2002,1364.5000,12,5
+743,"HL Mountain Frame - Black, 42",FR-M94B-42,true,Black,500,739.0410,1349.6000,12,5
+744,"HL Mountain Frame - Black, 44",FR-M94B-44,true,Black,500,699.0928,1349.6000,12,5
+745,"HL Mountain Frame - Black, 48",FR-M94B-48,true,Black,500,699.0928,1349.6000,12,5
+746,"HL Mountain Frame - Black, 46",FR-M94B-46,true,Black,500,739.0410,1349.6000,12,5
+747,"HL Mountain Frame - Black, 38",FR-M94B-38,true,Black,500,739.0410,1349.6000,12,5
+748,"HL Mountain Frame - Silver, 38",FR-M94S-38,true,Silver,500,747.2002,1364.5000,12,5
+749,"Road-150 Red, 62",BK-R93R-62,true,Red,100,2171.2942,3578.2700,2,25
+750,"Road-150 Red, 44",BK-R93R-44,true,Red,100,2171.2942,3578.2700,2,25
+751,"Road-150 Red, 48",BK-R93R-48,true,Red,100,2171.2942,3578.2700,2,25
+752,"Road-150 Red, 52",BK-R93R-52,true,Red,100,2171.2942,3578.2700,2,25
+753,"Road-150 Red, 56",BK-R93R-56,true,Red,100,2171.2942,3578.2700,2,25
+754,"Road-450 Red, 58",BK-R68R-58,true,Red,100,884.7083,1457.9900,2,28
+755,"Road-450 Red, 60",BK-R68R-60,true,Red,100,884.7083,1457.9900,2,28
+756,"Road-450 Red, 44",BK-R68R-44,true,Red,100,884.7083,1457.9900,2,28
+757,"Road-450 Red, 48",BK-R68R-48,true,Red,100,884.7083,1457.9900,2,28
+758,"Road-450 Red, 52",BK-R68R-52,true,Red,100,884.7083,1457.9900,2,28
+759,"Road-650 Red, 58",BK-R50R-58,true,Red,100,486.7066,782.9900,2,30
+760,"Road-650 Red, 60",BK-R50R-60,true,Red,100,486.7066,782.9900,2,30
+761,"Road-650 Red, 62",BK-R50R-62,true,Red,100,486.7066,782.9900,2,30
+762,"Road-650 Red, 44",BK-R50R-44,true,Red,100,486.7066,782.9900,2,30
+763,"Road-650 Red, 48",BK-R50R-48,true,Red,100,486.7066,782.9900,2,30
+764,"Road-650 Red, 52",BK-R50R-52,true,Red,100,486.7066,782.9900,2,30
+765,"Road-650 Black, 58",BK-R50B-58,true,Black,100,486.7066,782.9900,2,30
+766,"Road-650 Black, 60",BK-R50B-60,true,Black,100,486.7066,782.9900,2,30
+767,"Road-650 Black, 62",BK-R50B-62,true,Black,100,486.7066,782.9900,2,30
+768,"Road-650 Black, 44",BK-R50B-44,true,Black,100,486.7066,782.9900,2,30
+769,"Road-650 Black, 48",BK-R50B-48,true,Black,100,486.7066,782.9900,2,30
+770,"Road-650 Black, 52",BK-R50B-52,true,Black,100,486.7066,782.9900,2,30
+771,"Mountain-100 Silver, 38",BK-M82S-38,true,Silver,100,1912.1544,3399.9900,1,19
+772,"Mountain-100 Silver, 42",BK-M82S-42,true,Silver,100,1912.1544,3399.9900,1,19
+773,"Mountain-100 Silver, 44",BK-M82S-44,true,Silver,100,1912.1544,3399.9900,1,19
+774,"Mountain-100 Silver, 48",BK-M82S-48,true,Silver,100,1912.1544,3399.9900,1,19
+775,"Mountain-100 Black, 38",BK-M82B-38,true,Black,100,1898.0944,3374.9900,1,19
+776,"Mountain-100 Black, 42",BK-M82B-42,true,Black,100,1898.0944,3374.9900,1,19
+777,"Mountain-100 Black, 44",BK-M82B-44,true,Black,100,1898.0944,3374.9900,1,19
+778,"Mountain-100 Black, 48",BK-M82B-48,true,Black,100,1898.0944,3374.9900,1,19
+779,"Mountain-200 Silver, 38",BK-M68S-38,true,Silver,100,1265.6195,2319.9900,1,20
+780,"Mountain-200 Silver, 42",BK-M68S-42,true,Silver,100,1265.6195,2319.9900,1,20
+781,"Mountain-200 Silver, 46",BK-M68S-46,true,Silver,100,1265.6195,2319.9900,1,20
+782,"Mountain-200 Black, 38",BK-M68B-38,true,Black,100,1251.9813,2294.9900,1,20
+783,"Mountain-200 Black, 42",BK-M68B-42,true,Black,100,1251.9813,2294.9900,1,20
+784,"Mountain-200 Black, 46",BK-M68B-46,true,Black,100,1251.9813,2294.9900,1,20
+785,"Mountain-300 Black, 38",BK-M47B-38,true,Black,100,598.4354,1079.9900,1,21
+786,"Mountain-300 Black, 40",BK-M47B-40,true,Black,100,598.4354,1079.9900,1,21
+787,"Mountain-300 Black, 44",BK-M47B-44,true,Black,100,598.4354,1079.9900,1,21
+788,"Mountain-300 Black, 48",BK-M47B-48,true,Black,100,598.4354,1079.9900,1,21
+789,"Road-250 Red, 44",BK-R89R-44,true,Red,100,1518.7864,2443.3500,2,26
+790,"Road-250 Red, 48",BK-R89R-48,true,Red,100,1518.7864,2443.3500,2,26
+791,"Road-250 Red, 52",BK-R89R-52,true,Red,100,1518.7864,2443.3500,2,26
+792,"Road-250 Red, 58",BK-R89R-58,true,Red,100,1554.9479,2443.3500,2,26
+793,"Road-250 Black, 44",BK-R89B-44,true,Black,100,1554.9479,2443.3500,2,26
+794,"Road-250 Black, 48",BK-R89B-48,true,Black,100,1554.9479,2443.3500,2,26
+795,"Road-250 Black, 52",BK-R89B-52,true,Black,100,1554.9479,2443.3500,2,26
+796,"Road-250 Black, 58",BK-R89B-58,true,Black,100,1554.9479,2443.3500,2,26
+797,"Road-550-W Yellow, 38",BK-R64Y-38,true,Yellow,100,713.0798,1120.4900,2,29
+798,"Road-550-W Yellow, 40",BK-R64Y-40,true,Yellow,100,713.0798,1120.4900,2,29
+799,"Road-550-W Yellow, 42",BK-R64Y-42,true,Yellow,100,713.0798,1120.4900,2,29
+800,"Road-550-W Yellow, 44",BK-R64Y-44,true,Yellow,100,713.0798,1120.4900,2,29
+801,"Road-550-W Yellow, 48",BK-R64Y-48,true,Yellow,100,713.0798,1120.4900,2,29
+802,LL Fork,FK-1639,true,,500,65.8097,148.2200,10,104
+803,ML Fork,FK-5136,true,,500,77.9176,175.4900,10,105
+804,HL Fork,FK-9939,true,,500,101.8936,229.4900,10,106
+805,LL Headset,HS-0296,true,,500,15.1848,34.2000,11,59
+806,ML Headset,HS-2451,true,,500,45.4168,102.2900,11,60
+807,HL Headset,HS-3479,true,,500,55.3801,124.7300,11,61
+808,LL Mountain Handlebars,HB-M243,true,,500,19.7758,44.5400,4,52
+809,ML Mountain Handlebars,HB-M763,true,,500,27.4925,61.9200,4,54
+810,HL Mountain Handlebars,HB-M918,true,,500,53.3999,120.2700,4,55
+811,LL Road Handlebars,HB-R504,true,,500,19.7758,44.5400,4,56
+812,ML Road Handlebars,HB-R720,true,,500,27.4925,61.9200,4,57
+813,HL Road Handlebars,HB-R956,true,,500,53.3999,120.2700,4,58
+814,"ML Mountain Frame - Black, 38",FR-M63B-38,true,Black,500,185.8193,348.7600,12,15
+815,LL Mountain Front Wheel,FW-M423,true,Black,500,26.9708,60.7450,17,42
+816,ML Mountain Front Wheel,FW-M762,true,Black,500,92.8071,209.0250,17,45
+817,HL Mountain Front Wheel,FW-M928,true,Black,500,133.2955,300.2150,17,46
+818,LL Road Front Wheel,FW-R623,true,Black,500,37.9909,85.5650,17,49
+819,ML Road Front Wheel,FW-R762,true,Black,500,110.2829,248.3850,17,50
+820,HL Road Front Wheel,FW-R820,true,Black,500,146.5466,330.0600,17,51
+821,Touring Front Wheel,FW-T905,true,Black,500,96.7964,218.0100,17,44
+822,"ML Road Frame-W - Yellow, 38",FR-R72Y-38,true,Yellow,500,360.9428,594.8300,14,17
+823,LL Mountain Rear Wheel,RW-M423,true,Black,500,38.9588,87.7450,17,123
+824,ML Mountain Rear Wheel,RW-M762,true,Black,500,104.7951,236.0250,17,124
+825,HL Mountain Rear Wheel,RW-M928,true,Black,500,145.2835,327.2150,17,125
+826,LL Road Rear Wheel,RW-R623,true,Black,500,49.9789,112.5650,17,126
+827,ML Road Rear Wheel,RW-R762,true,Black,500,122.2709,275.3850,17,77
+828,HL Road Rear Wheel,RW-R820,true,Black,500,158.5346,357.0600,17,78
+829,Touring Rear Wheel,RW-T905,true,Black,500,108.7844,245.0100,17,43
+830,"ML Mountain Frame - Black, 40",FR-M63B-40,true,Black,500,185.8193,348.7600,12,14
+831,"ML Mountain Frame - Black, 44",FR-M63B-44,true,Black,500,185.8193,348.7600,12,14
+832,"ML Mountain Frame - Black, 48",FR-M63B-48,true,Black,500,185.8193,348.7600,12,14
+833,"ML Road Frame-W - Yellow, 40",FR-R72Y-40,true,Yellow,500,360.9428,594.8300,14,17
+834,"ML Road Frame-W - Yellow, 42",FR-R72Y-42,true,Yellow,500,360.9428,594.8300,14,17
+835,"ML Road Frame-W - Yellow, 44",FR-R72Y-44,true,Yellow,500,360.9428,594.8300,14,17
+836,"ML Road Frame-W - Yellow, 48",FR-R72Y-48,true,Yellow,500,360.9428,594.8300,14,17
+837,"HL Road Frame - Black, 62",FR-R92B-62,true,Black,500,868.6342,1431.5000,14,6
+838,"HL Road Frame - Black, 44",FR-R92B-44,true,Black,500,868.6342,1431.5000,14,6
+839,"HL Road Frame - Black, 48",FR-R92B-48,true,Black,500,868.6342,1431.5000,14,6
+840,"HL Road Frame - Black, 52",FR-R92B-52,true,Black,500,868.6342,1431.5000,14,6
+841,"Men's Sports Shorts, S",SH-M897-S,false,Black,4,24.7459,59.9900,22,13
+842,"Touring-Panniers, Large",PA-T100,false,Grey,4,51.5625,125.0000,35,120
+843,Cable Lock,LO-C100,false,,4,10.3125,25.0000,34,115
+844,Minipump,PU-0452,false,,4,8.2459,19.9900,36,116
+845,Mountain Pump,PU-M044,false,,4,10.3084,24.9900,36,117
+846,Taillights - Battery-Powered,LT-T990,false,,4,5.7709,13.9900,33,108
+847,Headlights - Dual-Beam,LT-H902,false,,4,14.4334,34.9900,33,109
+848,Headlights - Weatherproof,LT-H903,false,,4,18.5584,44.9900,33,110
+849,"Men's Sports Shorts, M",SH-M897-M,false,Black,4,24.7459,59.9900,22,13
+850,"Men's Sports Shorts, L",SH-M897-L,false,Black,4,24.7459,59.9900,22,13
+851,"Men's Sports Shorts, XL",SH-M897-X,false,Black,4,24.7459,59.9900,22,13
+852,"Women's Tights, S",TG-W091-S,false,Black,4,30.9334,74.9900,24,38
+853,"Women's Tights, M",TG-W091-M,false,Black,4,30.9334,74.9900,24,38
+854,"Women's Tights, L",TG-W091-L,false,Black,4,30.9334,74.9900,24,38
+855,"Men's Bib-Shorts, S",SB-M891-S,false,Multi,4,37.1209,89.9900,18,12
+856,"Men's Bib-Shorts, M",SB-M891-M,false,Multi,4,37.1209,89.9900,18,12
+857,"Men's Bib-Shorts, L",SB-M891-L,false,Multi,4,37.1209,89.9900,18,12
+858,"Half-Finger Gloves, S",GL-H102-S,false,Black,4,9.1593,24.4900,20,4
+859,"Half-Finger Gloves, M",GL-H102-M,false,Black,4,9.1593,24.4900,20,4
+860,"Half-Finger Gloves, L",GL-H102-L,false,Black,4,9.1593,24.4900,20,4
+861,"Full-Finger Gloves, S",GL-F110-S,false,Black,4,15.6709,37.9900,20,3
+862,"Full-Finger Gloves, M",GL-F110-M,false,Black,4,15.6709,37.9900,20,3
+863,"Full-Finger Gloves, L",GL-F110-L,false,Black,4,15.6709,37.9900,20,3
+864,"Classic Vest, S",VE-C304-S,false,Blue,4,23.7490,63.5000,25,1
+865,"Classic Vest, M",VE-C304-M,false,Blue,4,23.7490,63.5000,25,1
+866,"Classic Vest, L",VE-C304-L,false,Blue,4,23.7490,63.5000,25,1
+867,"Women's Mountain Shorts, S",SH-W890-S,false,Black,4,26.1763,69.9900,22,37
+868,"Women's Mountain Shorts, M",SH-W890-M,false,Black,4,26.1763,69.9900,22,37
+869,"Women's Mountain Shorts, L",SH-W890-L,false,Black,4,26.1763,69.9900,22,37
+870,Water Bottle - 30 oz.,WB-H098,false,,4,1.8663,4.9900,28,111
+871,Mountain Bottle Cage,BC-M005,false,,4,3.7363,9.9900,28,112
+872,Road Bottle Cage,BC-R205,false,,4,3.3623,8.9900,28,113
+873,Patch Kit/8 Patches,PK-7098,false,,4,0.8565,2.2900,37,114
+874,"Racing Socks, M",SO-R809-M,false,White,4,3.3623,8.9900,23,24
+875,"Racing Socks, L",SO-R809-L,false,White,4,3.3623,8.9900,23,24
+876,Hitch Rack - 4-Bike,RA-H123,false,,4,44.8800,120.0000,26,118
+877,Bike Wash - Dissolver,CL-9009,false,,4,2.9733,7.9500,29,119
+878,Fender Set - Mountain,FE-6654,false,,4,8.2205,21.9800,30,121
+879,All-Purpose Bike Stand,ST-1401,false,,4,59.4660,159.0000,27,122
+880,Hydration Pack - 70 oz.,HY-1023-70,false,Silver,4,20.5663,54.9900,32,107
+881,"Short-Sleeve Classic Jersey, S",SJ-0194-S,false,Yellow,4,41.5723,53.9900,21,32
+882,"Short-Sleeve Classic Jersey, M",SJ-0194-M,false,Yellow,4,41.5723,53.9900,21,32
+883,"Short-Sleeve Classic Jersey, L",SJ-0194-L,false,Yellow,4,41.5723,53.9900,21,32
+884,"Short-Sleeve Classic Jersey, XL",SJ-0194-X,false,Yellow,4,41.5723,53.9900,21,32
+885,"HL Touring Frame - Yellow, 60",FR-T98Y-60,true,Yellow,500,601.7437,1003.9100,16,7
+886,"LL Touring Frame - Yellow, 62",FR-T67Y-62,true,Yellow,500,199.8519,333.4200,16,10
+887,"HL Touring Frame - Yellow, 46",FR-T98Y-46,true,Yellow,500,601.7437,1003.9100,16,7
+888,"HL Touring Frame - Yellow, 50",FR-T98Y-50,true,Yellow,500,601.7437,1003.9100,16,7
+889,"HL Touring Frame - Yellow, 54",FR-T98Y-54,true,Yellow,500,601.7437,1003.9100,16,7
+890,"HL Touring Frame - Blue, 46",FR-T98U-46,true,Blue,500,601.7437,1003.9100,16,7
+891,"HL Touring Frame - Blue, 50",FR-T98U-50,true,Blue,500,601.7437,1003.9100,16,7
+892,"HL Touring Frame - Blue, 54",FR-T98U-54,true,Blue,500,601.7437,1003.9100,16,7
+893,"HL Touring Frame - Blue, 60",FR-T98U-60,true,Blue,500,601.7437,1003.9100,16,7
+894,Rear Derailleur,RD-2308,true,Silver,500,53.9282,121.4600,9,127
+895,"LL Touring Frame - Blue, 50",FR-T67U-50,true,Blue,500,199.8519,333.4200,16,10
+896,"LL Touring Frame - Blue, 54",FR-T67U-54,true,Blue,500,199.8519,333.4200,16,10
+897,"LL Touring Frame - Blue, 58",FR-T67U-58,true,Blue,500,199.8519,333.4200,16,10
+898,"LL Touring Frame - Blue, 62",FR-T67U-62,true,Blue,500,199.8519,333.4200,16,10
+899,"LL Touring Frame - Yellow, 44",FR-T67Y-44,true,Yellow,500,199.8519,333.4200,16,10
+900,"LL Touring Frame - Yellow, 50",FR-T67Y-50,true,Yellow,500,199.8519,333.4200,16,10
+901,"LL Touring Frame - Yellow, 54",FR-T67Y-54,true,Yellow,500,199.8519,333.4200,16,10
+902,"LL Touring Frame - Yellow, 58",FR-T67Y-58,true,Yellow,500,199.8519,333.4200,16,10
+903,"LL Touring Frame - Blue, 44",FR-T67U-44,true,Blue,500,199.8519,333.4200,16,10
+904,"ML Mountain Frame-W - Silver, 40",FR-M63S-40,true,Silver,500,199.3757,364.0900,12,15
+905,"ML Mountain Frame-W - Silver, 42",FR-M63S-42,true,Silver,500,199.3757,364.0900,12,15
+906,"ML Mountain Frame-W - Silver, 46",FR-M63S-46,true,Silver,500,199.3757,364.0900,12,15
+907,Rear Brakes,RB-9231,false,Silver,500,47.2860,106.5000,6,128
+908,LL Mountain Seat/Saddle,SE-M236,false,,500,12.0413,27.1200,15,79
+909,ML Mountain Seat/Saddle,SE-M798,false,,500,17.3782,39.1400,15,80
+910,HL Mountain Seat/Saddle,SE-M940,false,,500,23.3722,52.6400,15,81
+911,LL Road Seat/Saddle,SE-R581,false,,500,12.0413,27.1200,15,82
+912,ML Road Seat/Saddle,SE-R908,false,,500,17.3782,39.1400,15,83
+913,HL Road Seat/Saddle,SE-R995,false,,500,23.3722,52.6400,15,84
+914,LL Touring Seat/Saddle,SE-T312,false,,500,12.0413,27.1200,15,66
+915,ML Touring Seat/Saddle,SE-T762,false,,500,17.3782,39.1400,15,65
+916,HL Touring Seat/Saddle,SE-T924,false,,500,23.3722,52.6400,15,67
+917,"LL Mountain Frame - Silver, 42",FR-M21S-42,true,Silver,500,144.5938,264.0500,12,8
+918,"LL Mountain Frame - Silver, 44",FR-M21S-44,true,Silver,500,144.5938,264.0500,12,8
+919,"LL Mountain Frame - Silver, 48",FR-M21S-48,true,Silver,500,144.5938,264.0500,12,8
+920,"LL Mountain Frame - Silver, 52",FR-M21S-52,true,Silver,500,144.5938,264.0500,12,8
+921,Mountain Tire Tube,TT-M928,false,,500,1.8663,4.9900,37,92
+922,Road Tire Tube,TT-R982,false,,500,1.4923,3.9900,37,93
+923,Touring Tire Tube,TT-T092,false,,500,1.8663,4.9900,37,94
+924,"LL Mountain Frame - Black, 42",FR-M21B-42,true,Black,500,136.7850,249.7900,12,8
+925,"LL Mountain Frame - Black, 44",FR-M21B-44,true,Black,500,136.7850,249.7900,12,8
+926,"LL Mountain Frame - Black, 48",FR-M21B-48,true,Black,500,136.7850,249.7900,12,8
+927,"LL Mountain Frame - Black, 52",FR-M21B-52,true,Black,500,136.7850,249.7900,12,8
+928,LL Mountain Tire,TI-M267,false,,500,9.3463,24.9900,37,85
+929,ML Mountain Tire,TI-M602,false,,500,11.2163,29.9900,37,86
+930,HL Mountain Tire,TI-M823,false,,500,13.0900,35.0000,37,87
+931,LL Road Tire,TI-R092,false,,500,8.0373,21.4900,37,88
+932,ML Road Tire,TI-R628,false,,500,9.3463,24.9900,37,89
+933,HL Road Tire,TI-R982,false,,500,12.1924,32.6000,37,90
+934,Touring Tire,TI-T723,false,,500,10.8423,28.9900,37,91
+935,LL Mountain Pedal,PD-M282,false,Silver/Black,500,17.9776,40.4900,13,62
+936,ML Mountain Pedal,PD-M340,false,Silver/Black,500,27.5680,62.0900,13,63
+937,HL Mountain Pedal,PD-M562,false,Silver/Black,500,35.9596,80.9900,13,64
+938,LL Road Pedal,PD-R347,false,Silver/Black,500,17.9776,40.4900,13,68
+939,ML Road Pedal,PD-R563,false,Silver/Black,500,27.5680,62.0900,13,69
+940,HL Road Pedal,PD-R853,false,Silver/Black,500,35.9596,80.9900,13,70
+941,Touring Pedal,PD-T852,false,Silver/Black,500,35.9596,80.9900,13,53
+942,"ML Mountain Frame-W - Silver, 38",FR-M63S-38,true,Silver,500,199.3757,364.0900,12,15
+943,"LL Mountain Frame - Black, 40",FR-M21B-40,true,Black,500,136.7850,249.7900,12,8
+944,"LL Mountain Frame - Silver, 40",FR-M21S-40,true,Silver,500,144.5938,264.0500,12,8
+945,Front Derailleur,FD-2342,true,Silver,500,40.6216,91.4900,9,103
+946,LL Touring Handlebars,HB-T721,true,,500,20.4640,46.0900,4,47
+947,HL Touring Handlebars,HB-T928,true,,500,40.6571,91.5700,4,48
+948,Front Brakes,FB-9873,false,Silver,500,47.2860,106.5000,6,102
+949,LL Crankset,CS-4759,true,Black,500,77.9176,175.4900,8,99
+950,ML Crankset,CS-6583,true,Black,500,113.8816,256.4900,8,100
+951,HL Crankset,CS-9183,true,Black,500,179.8156,404.9900,8,101
+952,Chain,CH-0234,false,Silver,500,8.9866,20.2400,7,98
+953,"Touring-2000 Blue, 60",BK-T44U-60,true,Blue,100,755.1508,1214.8500,3,35
+954,"Touring-1000 Yellow, 46",BK-T79Y-46,true,Yellow,100,1481.9379,2384.0700,3,34
+955,"Touring-1000 Yellow, 50",BK-T79Y-50,true,Yellow,100,1481.9379,2384.0700,3,34
+956,"Touring-1000 Yellow, 54",BK-T79Y-54,true,Yellow,100,1481.9379,2384.0700,3,34
+957,"Touring-1000 Yellow, 60",BK-T79Y-60,true,Yellow,100,1481.9379,2384.0700,3,34
+958,"Touring-3000 Blue, 54",BK-T18U-54,true,Blue,100,461.4448,742.3500,3,36
+959,"Touring-3000 Blue, 58",BK-T18U-58,true,Blue,100,461.4448,742.3500,3,36
+960,"Touring-3000 Blue, 62",BK-T18U-62,true,Blue,100,461.4448,742.3500,3,36
+961,"Touring-3000 Yellow, 44",BK-T18Y-44,true,Yellow,100,461.4448,742.3500,3,36
+962,"Touring-3000 Yellow, 50",BK-T18Y-50,true,Yellow,100,461.4448,742.3500,3,36
+963,"Touring-3000 Yellow, 54",BK-T18Y-54,true,Yellow,100,461.4448,742.3500,3,36
+964,"Touring-3000 Yellow, 58",BK-T18Y-58,true,Yellow,100,461.4448,742.3500,3,36
+965,"Touring-3000 Yellow, 62",BK-T18Y-62,true,Yellow,100,461.4448,742.3500,3,36
+966,"Touring-1000 Blue, 46",BK-T79U-46,true,Blue,100,1481.9379,2384.0700,3,34
+967,"Touring-1000 Blue, 50",BK-T79U-50,true,Blue,100,1481.9379,2384.0700,3,34
+968,"Touring-1000 Blue, 54",BK-T79U-54,true,Blue,100,1481.9379,2384.0700,3,34
+969,"Touring-1000 Blue, 60",BK-T79U-60,true,Blue,100,1481.9379,2384.0700,3,34
+970,"Touring-2000 Blue, 46",BK-T44U-46,true,Blue,100,755.1508,1214.8500,3,35
+971,"Touring-2000 Blue, 50",BK-T44U-50,true,Blue,100,755.1508,1214.8500,3,35
+972,"Touring-2000 Blue, 54",BK-T44U-54,true,Blue,100,755.1508,1214.8500,3,35
+973,"Road-350-W Yellow, 40",BK-R79Y-40,true,Yellow,100,1082.5100,1700.9900,2,27
+974,"Road-350-W Yellow, 42",BK-R79Y-42,true,Yellow,100,1082.5100,1700.9900,2,27
+975,"Road-350-W Yellow, 44",BK-R79Y-44,true,Yellow,100,1082.5100,1700.9900,2,27
+976,"Road-350-W Yellow, 48",BK-R79Y-48,true,Yellow,100,1082.5100,1700.9900,2,27
+977,"Road-750 Black, 58",BK-R19B-58,true,Black,100,343.6496,539.9900,2,31
+978,"Touring-3000 Blue, 44",BK-T18U-44,true,Blue,100,461.4448,742.3500,3,36
+979,"Touring-3000 Blue, 50",BK-T18U-50,true,Blue,100,461.4448,742.3500,3,36
+980,"Mountain-400-W Silver, 38",BK-M38S-38,true,Silver,100,419.7784,769.4900,1,22
+981,"Mountain-400-W Silver, 40",BK-M38S-40,true,Silver,100,419.7784,769.4900,1,22
+982,"Mountain-400-W Silver, 42",BK-M38S-42,true,Silver,100,419.7784,769.4900,1,22
+983,"Mountain-400-W Silver, 46",BK-M38S-46,true,Silver,100,419.7784,769.4900,1,22
+984,"Mountain-500 Silver, 40",BK-M18S-40,true,Silver,100,308.2179,564.9900,1,23
+985,"Mountain-500 Silver, 42",BK-M18S-42,true,Silver,100,308.2179,564.9900,1,23
+986,"Mountain-500 Silver, 44",BK-M18S-44,true,Silver,100,308.2179,564.9900,1,23
+987,"Mountain-500 Silver, 48",BK-M18S-48,true,Silver,100,308.2179,564.9900,1,23
+988,"Mountain-500 Silver, 52",BK-M18S-52,true,Silver,100,308.2179,564.9900,1,23
+989,"Mountain-500 Black, 40",BK-M18B-40,true,Black,100,294.5797,539.9900,1,23
+990,"Mountain-500 Black, 42",BK-M18B-42,true,Black,100,294.5797,539.9900,1,23
+991,"Mountain-500 Black, 44",BK-M18B-44,true,Black,100,294.5797,539.9900,1,23
+992,"Mountain-500 Black, 48",BK-M18B-48,true,Black,100,294.5797,539.9900,1,23
+993,"Mountain-500 Black, 52",BK-M18B-52,true,Black,100,294.5797,539.9900,1,23
+994,LL Bottom Bracket,BB-7421,true,,500,23.9716,53.9900,5,95
+995,ML Bottom Bracket,BB-8107,true,,500,44.9506,101.2400,5,96
+996,HL Bottom Bracket,BB-9108,true,,500,53.9416,121.4900,5,97
+997,"Road-750 Black, 44",BK-R19B-44,true,Black,100,343.6496,539.9900,2,31
+998,"Road-750 Black, 48",BK-R19B-48,true,Black,100,343.6496,539.9900,2,31
+999,"Road-750 Black, 52",BK-R19B-52,true,Black,100,343.6496,539.9900,2,31
